@@ -16,7 +16,7 @@ Adoさんのベストアルバム「Adoのベストアドバム」のデラッ�
 
 ## 🌐 サイトURL
 
-- **プロジェクト**: [Vercel](https://vercel.com/miyasics-projects/ado-karta)
+- **プロジェクト**: [Vercel](https://vercel.com/nakamura196/ado-karta)
 - **サービス**: [ado-karta.vercel.app](https://ado-karta.vercel.app/)
 
 ---
